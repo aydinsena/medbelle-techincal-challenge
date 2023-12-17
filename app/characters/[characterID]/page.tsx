@@ -1,5 +1,4 @@
 import CharacterDetails from "@/app/_components/CharacterDetails";
-import CharactersClient from "@/app/_components/CharactersClient";
 
 const fetchCharacter = async (characterID: string) => {
   try {
